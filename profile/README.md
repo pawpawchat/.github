@@ -19,7 +19,7 @@ but for now there is only this baby.
     
 ### Capabilities
 - [ ] **Profile**
-  - [ ] Creation
+  - [x] Creation
   - [ ] Delete 
   - [ ] Editing main information
   - [ ] Changing avatars
