@@ -22,9 +22,9 @@ but for now there is only this baby.
   - [x] Creation
   - [ ] Delete 
   - [ ] Editing main information
-  - [ ] Changing avatars
+  - [x] Changing avatars
   - [ ] Customize privacy settings
-  - [ ] View other user's profiles
+  - [x] View other user's profiles
 - [ ] **Chat**
   - [ ] Creating group chats
   - [ ] Deleting froup chats
