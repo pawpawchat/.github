@@ -26,10 +26,10 @@ but for now there is only this baby.
   - [ ] Customize privacy settings
   - [x] View other user's profiles
 - [ ] **Chat**
-  - [ ] Creating group chats
+  - [x] Creating group chats
   - [ ] Deleting froup chats
   - [ ] Direct messages
-  - [ ] Groups messages
+  - [x] Groups messages
   - [ ] Sending media files
   - [ ] Reaction to a message
   - [ ] Roles in group chat
