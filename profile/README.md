@@ -14,7 +14,7 @@ but for now there is only this baby.
 ## Table of Contents
 - [Capabilities](#capabilities)
 - [Requirements](#requirements)
-- [Flowchart](#flowchart)  
+- [Schema](#schema)  
 
     
 ### Capabilities
@@ -73,7 +73,7 @@ but for now there is only this baby.
   - [ ] oauth 2.0
 
   
-### Flowchart
+### Schema
 > [!WARNING]
 > This is a preliminary drawing a piece of **small part** of the internal processes.  
 > **This is drawn before work begins**.  
