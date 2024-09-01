@@ -14,7 +14,7 @@ but for now there is only this baby.
 ## Table of Contents
 - [Capabilities](#capabilities)
 - [Requirements](#requirements)
-- [Schema](#schema)  
+- [Low-Level-Design](#low-level-design)  
 
     
 ### Capabilities
@@ -73,7 +73,7 @@ but for now there is only this baby.
   - [ ] oauth 2.0
 
   
-### Schema
+### Low-Level-Design
 > [!WARNING]
 > This is a preliminary drawing a piece of **small part** of the internal processes.  
 > **This is drawn before work begins**.  
