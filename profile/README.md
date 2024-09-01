@@ -21,7 +21,7 @@ but for now there is only this baby.
 - [ ] **Profile**
   - [x] Creation
   - [ ] Delete 
-  - [ ] Editing main information
+  - [x] Editing main information
   - [x] Changing avatars
   - [ ] Customize privacy settings
   - [x] View other user's profiles
